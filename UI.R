@@ -13,6 +13,8 @@ shinyUI(
                       sidebarPanel(
                         sliderInput("timeline", 
                                     label = "Timeline", 
+                                    timeFormat = "yyyy",
+                                    sep = NULL,
                                     min = 1950,
                                     max = 2016,
                                     value = c(1973, 1991)),

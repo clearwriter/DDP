@@ -14,4 +14,6 @@ Want to run the app from Github? It's easy.
 runGitHub( "DDP", "clearwriter") 
 ```
 
-About author: clearwriter, February 2016
+You can also run the app directly from [Shiny apps](https://clearwriter.shinyapps.io/CourseraDDP/).
+
+by clearwriter, February 2016
